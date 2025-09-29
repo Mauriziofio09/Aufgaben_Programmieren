@@ -1,0 +1,14 @@
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\bin\Debug\net9.0\Aufgabe7.exe
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\bin\Debug\net9.0\Aufgabe7.deps.json
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\bin\Debug\net9.0\Aufgabe7.runtimeconfig.json
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\bin\Debug\net9.0\Aufgabe7.dll
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\bin\Debug\net9.0\Aufgabe7.pdb
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\obj\Debug\net9.0\Aufgabe7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\obj\Debug\net9.0\Aufgabe7.AssemblyInfoInputs.cache
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\obj\Debug\net9.0\Aufgabe7.AssemblyInfo.cs
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\obj\Debug\net9.0\Aufgabe7.csproj.CoreCompileInputs.cache
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\obj\Debug\net9.0\Aufgabe7.dll
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\obj\Debug\net9.0\refint\Aufgabe7.dll
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\obj\Debug\net9.0\Aufgabe7.pdb
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\obj\Debug\net9.0\Aufgabe7.genruntimeconfig.cache
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe7\obj\Debug\net9.0\ref\Aufgabe7.dll
