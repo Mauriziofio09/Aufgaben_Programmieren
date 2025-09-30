@@ -12,3 +12,4 @@ C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe2\obj\Debug\net9.0\refint\Aufgabe2.
 C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe2\obj\Debug\net9.0\Aufgabe2.pdb
 C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe2\obj\Debug\net9.0\Aufgabe2.genruntimeconfig.cache
 C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe2\obj\Debug\net9.0\ref\Aufgabe2.dll
+C:\Users\mauri\RiderProjects\Aufgaben\Aufgabe2\obj\Debug\net9.0\Aufgabe2.sourcelink.json
