@@ -1,0 +1,28 @@
+# Build output
+bin/
+obj/
+out/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userprefs
+*.tmp
+*.log
+
+# Visual Studio artifacts (falls du das Repo auch dort öffnest)
+*.vs/
+
+# Paketverwaltung
+packages/
+*.nupkg
+
+# Backup & Cache
+*.cache/
+*.swp
+*.bak
