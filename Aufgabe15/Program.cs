@@ -1,34 +1,42 @@
-﻿   Console.WriteLine("Breite des Stammes?");
-   int breite = Convert.ToInt32(Console.ReadLine());
-   
-   Console.WriteLine("Höhe des Stammes?");
-   int höhe = Convert.ToInt32(Console.ReadLine());
-   
-   Console.WriteLine("Höhe der Krone?");
-   int crown = Convert.ToInt32(Console.ReadLine());
-   
-   if (int.TryParse(Console.ReadLine(), out höhe))
-   {
-       for (int i = 0; i < höhe; i++)
-       {
-           for (int j = 0; j < höhe; j++)
-           {
-               if (i == 0 || i == höhe - 1)
-               {
-                   Console.Write("*");
-               }
-               else
-               {
-                   if (j == i)
-                   {
-                       Console.Write(" ");
-                   }
-                   else
-                   {
-                       Console.Write("*");
-                   }
-               }
-           }
-           Console.WriteLine();
-       }
-   }
+﻿using System;
+
+class Weihnachtsbaum
+{
+    static void Main()
+    {
+        Console.Write("Breite des Stammes? ");
+        int stammBreite = int.Parse(Console.ReadLine());
+
+        Console.Write("Höhe des Stammes? ");
+        int stammHoehe = int.Parse(Console.ReadLine());
+
+        Console.Write("Höhe der Krone? ");
+        int kroneHoehe = int.Parse(Console.ReadLine());
+
+        // Krone
+        for (int i = 1; i <= kroneHoehe; i++)
+        {
+            // Leerzeichen für zentrieren
+            for (int j = 0; j < kroneHoehe - i; j++)
+                Console.Write(" ");
+
+            // Sterne
+            for (int j = 0; j < 2 * i - 1; j++)
+                Console.Write("*");
+
+            Console.WriteLine();
+        }
+
+        // Stamm
+        for (int i = 0; i < stammHoehe; i++)
+        {
+            for (int j = 0; j < kroneHoehe - stammBreite / 2 - 1; j++)
+                Console.Write(" ");
+
+            for (int j = 0; j < stammBreite; j++)
+                Console.Write("*");
+
+            Console.WriteLine();
+        }
+    }
+}
